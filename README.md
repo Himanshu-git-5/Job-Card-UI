@@ -36,3 +36,11 @@ A simple job listing interface showing multiple job cards with:
 ---
 
 ## 📂 Project Structure
+src/
+│── components/
+│   └── Card.jsx
+│── App.jsx
+│── main.jsx
+│── index.css
+│── App.css
+
